@@ -1,0 +1,17 @@
+{
+  "name": "toastmasters-pathways-data",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdotson/toastmasters-pathways-data.git"
+  },
+  "keywords": [
+    "toastmasters",
+    "pathways",
+    "json"
+  ],
+  "description": "All Toastmasters paths, levels, and projects in structured JSON format",
+  "main": "pathways.js",
+  "author": "sdotson",
+  "license": "MIT"
+}
