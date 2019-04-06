@@ -9,15 +9,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -28,15 +28,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your leadership style",
-                        "content": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
+                        "description": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
                     },
                     {
                         "name": "Understanding your communication style",
-                        "content": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
+                        "description": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -47,7 +47,7 @@
                 "requiredProjects": [
                     {
                         "name": "Reaching consensus",
-                        "content": "This project focuses on reaching consensus and the importance of including all group members in the decision making process."
+                        "description": "This project focuses on reaching consensus and the importance of including all group members in the decision making process."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -118,7 +118,7 @@
                 "requiredProjects": [
                     {
                         "name": "Improvement through positive coaching",
-                        "content": "This project focuses on how your actions can positively affect others and how to nurture relationships and assist an individual in reaching a goal."
+                        "description": "This project focuses on how your actions can positively affect others and how to nurture relationships and assist an individual in reaching a goal."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -165,11 +165,11 @@
                 "requiredProjects": [
                     {
                         "name": "High performance leadership",
-                        "content": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
+                        "description": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -210,15 +210,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -229,15 +229,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your leadership style",
-                        "content": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
+                        "description": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
                     },
                     {
                         "name": "Connect with your audience",
-                        "content": "This project focuses on different audience types and how to address them effectively."
+                        "description": "This project focuses on different audience types and how to address them effectively."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -248,7 +248,7 @@
                 "requiredProjects": [
                     {
                         "name": "Present a proposal",
-                        "content": "This project introduces how to select key information to present in a proposal to build a case with supporting evidence and realistic solutions."
+                        "description": "This project introduces how to select key information to present in a proposal to build a case with supporting evidence and realistic solutions."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -315,7 +315,7 @@
                 "requiredProjects": [
                     {
                         "name": "Manage projects successfully",
-                        "content": "This project focuses on skills needed to effectively manage a project, develop rapport with stakeholders and cultivate strong relationships with a team."
+                        "description": "This project focuses on skills needed to effectively manage a project, develop rapport with stakeholders and cultivate strong relationships with a team."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -358,11 +358,11 @@
                 "requiredProjects": [
                     {
                         "name": "High performance leadership",
-                        "content": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
+                        "description": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -403,15 +403,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -422,15 +422,15 @@
                 "requiredProjects": [
                     {
                         "name": "Managing time",
-                        "content": "This project is designed to help you manage your time, discover time management techniques, and employ them in your speeches and daily life."
+                        "description": "This project is designed to help you manage your time, discover time management techniques, and employ them in your speeches and daily life."
                     },
                     {
                         "name": "Understanding your leadership style",
-                        "content": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
+                        "description": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -441,7 +441,7 @@
                 "requiredProjects": [
                     {
                         "name": "Planning and implementing",
-                        "content": "This project is designed to help you develop realistic plans to meet your objectives and to successfully monitor a project to completion."
+                        "description": "This project is designed to help you develop realistic plans to meet your objectives and to successfully monitor a project to completion."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -512,7 +512,7 @@
                 "requiredProjects": [
                     {
                         "name": "Leading your team",
-                        "content": "This project is designed to help you accomplish a task while leading a small group and give you the opportunity to practice basic skills of leadership."
+                        "description": "This project is designed to help you accomplish a task while leading a small group and give you the opportunity to practice basic skills of leadership."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -559,11 +559,11 @@
                 "requiredProjects": [
                     {
                         "name": "Manage successful events",
-                        "content": "This project is designed to give you tools to coordinate an event. It includes steps for managing the unexpected, leading a team and creating positive outcomes."
+                        "description": "This project is designed to give you tools to coordinate an event. It includes steps for managing the unexpected, leading a team and creating positive outcomes."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -608,15 +608,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -627,15 +627,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your communication style",
-                        "content": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
+                        "description": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
                     },
                     {
                         "name": "Active listening",
-                        "content": "This project covers the difference between hearing and listening, and steps for exploring the ways listening helps build strong, lasting connections."
+                        "description": "This project covers the difference between hearing and listening, and steps for exploring the ways listening helps build strong, lasting connections."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -646,7 +646,7 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding emotional intelligence",
-                        "content": "This project addresses elements of emotional intelligence. It is designed to help you understand your own emotions and the emotions of others."
+                        "description": "This project addresses elements of emotional intelligence. It is designed to help you understand your own emotions and the emotions of others."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -713,7 +713,7 @@
                 "requiredProjects": [
                     {
                         "name": "Motivate others",
-                        "content": "This project focuses on how people are motivated. It is designed to help you build your leadership skills by effectively motivating team members."
+                        "description": "This project focuses on how people are motivated. It is designed to help you build your leadership skills by effectively motivating team members."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -760,11 +760,11 @@
                 "requiredProjects": [
                     {
                         "name": "Team building",
-                        "content": "This project addresses the benefits of team building. It is designed to help you build a sense of collaboration and trust within a team completing a project."
+                        "description": "This project addresses the benefits of team building. It is designed to help you build a sense of collaboration and trust within a team completing a project."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -809,15 +809,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -828,15 +828,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your leadership style",
-                        "content": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
+                        "description": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
                     },
                     {
                         "name": "Active listening",
-                        "content": "This project covers the difference between hearing and listening, and steps for exploring the ways listening helps build strong, lasting connections."
+                        "description": "This project covers the difference between hearing and listening, and steps for exploring the ways listening helps build strong, lasting connections."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -847,7 +847,7 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding conflict resolution",
-                        "content": "This project is designed to introduce conflict resolution strategies and provide an opportunity to resolve a conflict scenario within an interactive activity."
+                        "description": "This project is designed to introduce conflict resolution strategies and provide an opportunity to resolve a conflict scenario within an interactive activity."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -914,7 +914,7 @@
                 "requiredProjects": [
                     {
                         "name": "Leading in difficult situations",
-                        "content": "This project focuses on the fundamentals of managing challenges, analyzing difficult situations and identifying best strategies for overcoming adversity."
+                        "description": "This project focuses on the fundamentals of managing challenges, analyzing difficult situations and identifying best strategies for overcoming adversity."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -961,11 +961,11 @@
                 "requiredProjects": [
                     {
                         "name": "High performance leadership",
-                        "content": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
+                        "description": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1006,15 +1006,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1025,15 +1025,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your communication style",
-                        "content": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
+                        "description": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
                     },
                     {
                         "name": "Effective body language",
-                        "content": "This project focuses on how to recognize body language used when speaking publicly and how to use gestures to enhance speech content."
+                        "description": "This project focuses on how to recognize body language used when speaking publicly and how to use gestures to enhance speech content."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1044,7 +1044,7 @@
                 "requiredProjects": [
                     {
                         "name": "Persuasive speaking",
-                        "content": "This project focuses on helping you to develop and support a viewpoint, and identify the most appropriate type of persuasive speech for your topic."
+                        "description": "This project focuses on helping you to develop and support a viewpoint, and identify the most appropriate type of persuasive speech for your topic."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1111,7 +1111,7 @@
                 "requiredProjects": [
                     {
                         "name": "Managing a difficult audience",
-                        "content": "This project covers common behaviors of difficult audience members and how to address each behavior in a calm, effective and professional way."
+                        "description": "This project covers common behaviors of difficult audience members and how to address each behavior in a calm, effective and professional way."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -1154,11 +1154,11 @@
                 "requiredProjects": [
                     {
                         "name": "Prepare to speak professionally",
-                        "content": "This project is designed to help you define the attributes of professional speakers and apply that understanding to your own skills as a speaker."
+                        "description": "This project is designed to help you define the attributes of professional speakers and apply that understanding to your own skills as a speaker."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1199,15 +1199,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1218,15 +1218,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your leadership style",
-                        "content": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
+                        "description": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
                     },
                     {
                         "name": "Cross cultural understanding",
-                        "content": "This project focuses on understanding the cultures with which you identify and the impact of stereotypes associated with your cultures and others."
+                        "description": "This project focuses on understanding the cultures with which you identify and the impact of stereotypes associated with your cultures and others."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1237,7 +1237,7 @@
                 "requiredProjects": [
                     {
                         "name": "Making connections through networking",
-                        "content": "This project focuses on how to network effectively and understanding the importance of being a professional ally to people in your network."
+                        "description": "This project focuses on how to network effectively and understanding the importance of being a professional ally to people in your network."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1304,7 +1304,7 @@
                 "requiredProjects": [
                     {
                         "name": "Public relations strategies",
-                        "content": "This project focuses on how to promote awareness of an organization, formulate a public relations strategy and use various public relations tactics."
+                        "description": "This project focuses on how to promote awareness of an organization, formulate a public relations strategy and use various public relations tactics."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -1347,11 +1347,11 @@
                 "requiredProjects": [
                     {
                         "name": "Leading in your volunteer organization",
-                        "content": "This project focuses on the skills required to lead in a volunteer organization and the importance of recognition and reward in motivating volunteers."
+                        "description": "This project focuses on the skills required to lead in a volunteer organization and the importance of recognition and reward in motivating volunteers."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1392,15 +1392,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1411,15 +1411,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your communication style",
-                        "content": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
+                        "description": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
                     },
                     {
                         "name": "Active listening",
-                        "content": "This project covers the difference between hearing and listening, and steps for exploring the ways listening helps build strong, lasting connections."
+                        "description": "This project covers the difference between hearing and listening, and steps for exploring the ways listening helps build strong, lasting connections."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1430,7 +1430,7 @@
                 "requiredProjects": [
                     {
                         "name": "Successful collaboration",
-                        "content": "The focus of this project is the benefit of collaboration, building an environment of trust, and encouraging creative debate within a group."
+                        "description": "The focus of this project is the benefit of collaboration, building an environment of trust, and encouraging creative debate within a group."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1497,7 +1497,7 @@
                 "requiredProjects": [
                     {
                         "name": "Motivate others",
-                        "content": "This project focuses on how people are motivated. It is designed to help you build your leadership skills by effectively motivating team members."
+                        "description": "This project focuses on how people are motivated. It is designed to help you build your leadership skills by effectively motivating team members."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -1544,11 +1544,11 @@
                 "requiredProjects": [
                     {
                         "name": "Lead in any situation",
-                        "content": "This project focuses on leadership and recognizing the need to adapt your style based on the situation and the people you lead."
+                        "description": "This project focuses on leadership and recognizing the need to adapt your style based on the situation and the people you lead."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1593,15 +1593,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker  0",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback  0",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting  0",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1612,15 +1612,15 @@
                 "requiredProjects": [
                     {
                         "name": "Understanding your leadership style",
-                        "content": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
+                        "description": "This project is designed to introduce the different styles of leadership and help you identify your preferred style."
                     },
                     {
                         "name": "Understanding your communication style",
-                        "content": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
+                        "description": "This project focuses on recognizing your preferred communication style and understanding how your style impacts your interactions with others."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring  0",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1631,7 +1631,7 @@
                 "requiredProjects": [
                     {
                         "name": "Develop a communication plan",
-                        "content": "This project focuses on how to formulate a central message and develop a communication plan for a target audience."
+                        "description": "This project focuses on how to formulate a central message and develop a communication plan for a target audience."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1702,7 +1702,7 @@
                 "requiredProjects": [
                     {
                         "name": "Communicate change",
-                        "content": "This project focuses on creating a communication plan by gathering evidence to support the need for change and communicating change with your audience."
+                        "description": "This project focuses on creating a communication plan by gathering evidence to support the need for change and communicating change with your audience."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -1749,11 +1749,11 @@
                 "requiredProjects": [
                     {
                         "name": "Develop your vision",
-                        "content": "This project focuses on developing a vision for your work or personal life."
+                        "description": "This project focuses on developing a vision for your work or personal life."
                     },
                     {
                         "name": "Reflect on your path  0",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1798,15 +1798,15 @@
                 "requiredProjects": [
                     {
                         "name": "Ice breaker",
-                        "content": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
+                        "description": "This foundational project is designed to introduce you to your club and the skills you need to begin your Toastmasters journey."
                     },
                     {
                         "name": "Evaluation and feedback",
-                        "content": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
+                        "description": "This project addresses the skills needed to give and receive feedback. You will learn about giving, receiving and applying feedback."
                     },
                     {
                         "name": "Researching and presenting",
-                        "content": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
+                        "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1817,15 +1817,15 @@
                 "requiredProjects": [
                     {
                         "name": "Know your sense of humor",
-                        "content": "This project focuses on understanding what makes you laugh and how to share that with an audience."
+                        "description": "This project focuses on understanding what makes you laugh and how to share that with an audience."
                     },
                     {
                         "name": "Connect with your audience",
-                        "content": "This project focuses on different audience types and how to address them effectively."
+                        "description": "This project focuses on different audience types and how to address them effectively."
                     },
                     {
                         "name": "Introduction to toastmasters mentoring",
-                        "content": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
+                        "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
                 "totalProjectsRequired": 3
@@ -1836,7 +1836,7 @@
                 "requiredProjects": [
                     {
                         "name": "Engage your audience with humor",
-                        "content": "This project focuses on using humor to enhance the message you deliver in your speech. "
+                        "description": "This project focuses on using humor to enhance the message you deliver in your speech. "
                     }
                 ],
                 "totalProjectsRequired": 3,
@@ -1903,7 +1903,7 @@
                 "requiredProjects": [
                     {
                         "name": "Power of humor in an impromptu speech",
-                        "content": "This project focuses on developing strategies for adding humor to any speech, especially impromptu speeches."
+                        "description": "This project focuses on developing strategies for adding humor to any speech, especially impromptu speeches."
                     }
                 ],
                 "totalProjectsRequired": 2,
@@ -1950,11 +1950,11 @@
                 "requiredProjects": [
                     {
                         "name": "Deliver your message with humor",
-                        "content": "This project focuses on creating a keynote-length speech that effectively delivers a message and humor to an audience."
+                        "description": "This project focuses on creating a keynote-length speech that effectively delivers a message and humor to an audience."
                     },
                     {
                         "name": "Reflect on your path",
-                        "content": "This project is designed to give you an opportunity to share your experience at the end of your path."
+                        "description": "This project is designed to give you an opportunity to share your experience at the end of your path."
                     }
                 ],
                 "totalProjectsRequired": 3,
